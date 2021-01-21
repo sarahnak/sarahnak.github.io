@@ -15,3 +15,8 @@ _site/
 *.log
 *.sql
 *.sqlite
+
+### Jekyll ###
+_site
+.jekyll-metadata
+*-cache/

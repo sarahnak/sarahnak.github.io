@@ -2,15 +2,19 @@
 author: "Sarah Nakama"
 tagline: ""
 description: "student at cv"
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+# keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+email: "stnakama888@gmail.com"
+# linkedin: "https://www.linkedin.com/"
+# twitter: "https://twitter.com/"
+github: "https://github.com/sarahnak/"
 
 # Site config
-baseurl: "/pineapple"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
+#git ignore
+exclude:
+- .jekyll-cache
